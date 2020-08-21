@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" group="android" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="android/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/extension-ffmpeg-release/extension-ffmpeg-release.iml" filepath="$PROJECT_DIR$/.idea/modules/extension-ffmpeg-release/extension-ffmpeg-release.iml" group="android/extension-ffmpeg-release" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-495526716/video_player.iml" filepath="$PROJECT_DIR$/.idea/modules/-495526716/video_player.iml" group="android/video_player" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1487719907/video_player_web.iml" filepath="$PROJECT_DIR$/.idea/modules/-1487719907/video_player_web.iml" group="android/video_player_web" />
+    </modules>
+  </component>
+</project>
